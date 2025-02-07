@@ -1,2 +1,2 @@
 app:
-  service: master [git/main/master-service]
+  service: service value [git/foo/master-service]

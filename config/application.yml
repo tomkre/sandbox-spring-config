@@ -1,2 +1,2 @@
 app:
-  common: master [git/main/application]
+  common: common value [git/foo/application]
